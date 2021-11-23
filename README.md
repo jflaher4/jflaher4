@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hello, I'm John Flaherty!
+I'm a Junior at the Univeristy of Notre Dame studying Computer Science and ACMS (Applied and Computational Mathematics and Statistics)
 
 <!--
 **jflaher4/jflaher4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
