@@ -1,5 +1,8 @@
 ### 👋 Hello, I'm John Flaherty!
-I'm a Junior at the Univeristy of Notre Dame studying Computer Science and ACMS (Applied and Computational Mathematics and Statistics)
+- :shamrock: I'm a Junior at the Univeristy of Notre Dame (Class of 2023)
+- :books: I'm studying Computer Science and ACMS (Applied and Computational Mathematics and Statistics)
+- 💻 I'm currently learning C#
+- 📫 You can reach me at jflaher4@nd.edu
 
 <!--
 **jflaher4/jflaher4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
