@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm John Flaherty!
 - :shamrock: I'm a Junior at the Univeristy of Notre Dame (Class of 2023)
 - :books: I'm studying Computer Science and ACMS (Applied and Computational Mathematics and Statistics)
-- 💻 I'm currently learning C#
+- 💻 I'm currently learning C# and JavaScript
 - 📫 You can reach me at jflaher4@nd.edu
 
 <!--
