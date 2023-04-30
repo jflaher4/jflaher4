@@ -1,7 +1,6 @@
 ### 👋 Hello, I'm John Flaherty!
 - :shamrock: I'm a Senior at the Univeristy of Notre Dame (Class of 2023)
 - :books: I'm studying Computer Science and ACMS (Applied and Computational Mathematics and Statistics)
-- 🌱 I am interning at Cargill Risk Management this summer, learning Angular and .NET
 - 📫 You can reach me at jflaher4@nd.edu
 
 <!--
