@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Jack Flaherty!
 - :shamrock: Graduate of the Univeristy of Notre Dame (Class of 2023)
 - :books: Studied Computer Science and ACMS (Applied and Computational Mathematics and Statistics)
-- 📫 Can be reached me at jackflaherty00@gmail.com
+- 📫 Can be reached at jackflaherty00@gmail.com
 
 <!--
 **jflaher4/jflaher4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
